@@ -1,0 +1,52 @@
+.divider {
+    height: 45px;
+    width: 2px;
+    background-color: black;
+    margin-right: 10px;
+  }
+
+  .custom-upload .ant-upload {
+	background: #E8F2FF;
+	color: #1D8AF5;
+  }
+  
+  .custom-upload .ant-upload:hover {
+    background: #1D8AF5; /* Warna latar belakang biru yang berbeda saat dihover */
+  }
+  
+  .custom-upload-container {
+    display: block;
+  }
+  
+  .custom-upload-content {
+    display: block;
+  }
+  
+  .custom-upload-button {
+    display: block;
+    background: #e8f2ff;
+    color: #1d8af5;
+    padding: 8px;
+  }
+  
+  .custom-upload-button:hover {
+    background: #0e5a9d;
+  }
+
+  /* .ant-table-thead > tr > th {
+    background-color: black; 
+  } */
+
+  /* .ant-table-thead .ant-table-cell {
+    background-color: green;
+  } */
+
+  .ant-table
+  .ant-table-container
+  .ant-table-content
+  table
+  thead.ant-table-thead
+  .ant-table-cell {
+  background-color: #F6F6F6;
+  height: 56px;
+}
